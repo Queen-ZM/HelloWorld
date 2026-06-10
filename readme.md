@@ -1,23 +1,23 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+As a software engineer I hope I can develop sofware that will help and make the lives of people better.
 
-{Provide a description of your software}
+In this project I will be using pyton sofware
 
-{Describe your purpose for creating this software.}
+The purpose of this software is to get me and us as the learners to get used to sofwares that will be used in this block.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://byupathway.zoom.us/rec/share/DxG9gDEwXHe85vybQjGZrKAm3yexrEanxG2E5-xOsaNSHvByPec6cDvRCMq3QVXZ.Yy3dUI79SZXz1fLm?startTime=1779576501000)
+Passcode: EmW$g7Fk
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used Visual Studio Code.
 
-{Describe the programming language that you used}
+Used Python as theh programming language.
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Web Site Name](https://www.youtube.com/watch?v=FB4ctVmryis)
+* [Web Site Name](https://www.w3schools.com/python/)
